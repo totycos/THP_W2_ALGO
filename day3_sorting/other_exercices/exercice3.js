@@ -4,7 +4,7 @@ Résous le sujet avec une complexité algorithmique de O(n), c'est-à-dire que t
 */
 
 const list = [10, 15, 3, 7]
-const k = 17 // true
+const k = 19 // true
 // const k = 19 // false
 
 const isKsumOfpair = (array, number) => {
